@@ -1,5 +1,5 @@
 #pragma once
-#include "FrenquencyCounter.h"
+#include "frequencyCounter.h"
 
 typedef struct node Node;
 struct node{
